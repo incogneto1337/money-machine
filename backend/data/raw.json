@@ -1,0 +1,31 @@
+{
+  "source": "rss",
+  "fetched_at": "2026-02-25T21:39:48.653849",
+  "items": [
+    {
+      "title": "Jimi Hendrix was a systems engineer",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47157224\">Comments</a>",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer"
+    },
+    {
+      "title": "The Om Programming Language",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47154971\">Comments</a>",
+      "url": "https://www.om-language.com/"
+    },
+    {
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47153798\">Comments</a>",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/"
+    },
+    {
+      "title": "Making MCP cheaper via CLI",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47157398\">Comments</a>",
+      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html"
+    },
+    {
+      "title": "Windows 11 Notepad to support Markdown",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47154399\">Comments</a>",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/"
+    }
+  ]
+}
